@@ -1,0 +1,2 @@
+Hello world!
+Add more phrases here to speak them.
